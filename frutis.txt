@@ -1,9 +1,3 @@
-pple
-dfsdfsd
-dfffsdfasdf 
-sfsdf
-dfgdfg
-dfsd
-New Additon
-test1
-
+Apple
+Orange
+Edited new file 
